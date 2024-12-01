@@ -1,0 +1,79 @@
+body {
+    background-color: #ffe6f2;
+}
+
+
+.title {
+   
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #d147a3;
+}
+ 
+.term {
+    border: solid 5px #d147a3;
+    border-radius: 15px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    background: #fff0f6;
+}
+
+
+.definition {
+border: solid 5px #d147a3;
+border-radius: 15px;
+text-align: center;
+width: 45%;
+margin: auto;
+margin-top: 100px;
+display: none;
+}
+
+
+.button {
+    text-align: center;
+    margin-top: 100px;
+    }
+       
+    button {
+        color: white;
+        background-color:#ff85c0;
+        padding: 20px;
+        border-radius: 15px;
+    }
+    
+    button:hover {
+        transform: scale(1.1);
+    }
+    
+    .add-words {
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .add-words input {
+        width: 40%;
+        padding: 10px;
+        margin: 10px;
+        border: solid 2px #d147a3;
+        border-radius: 10px;
+        font-size: 1rem;
+    }
+    
+    .add-words button {
+        color: white;
+        background-color:#ff85c0;
+        padding: 10px 20px;
+        border-radius: 10px;
+        font-size: 1rem;
+    }
+    
+    .add-words button:hover {
+        transform: scale(1.1);
+    }
+    
+
+
+
